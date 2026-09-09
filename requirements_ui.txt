@@ -1,0 +1,5 @@
+gradio
+transformers
+torch
+accelerate
+tavily-python

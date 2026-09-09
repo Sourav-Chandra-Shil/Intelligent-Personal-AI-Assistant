@@ -1,0 +1,32 @@
+{
+  "profile": {
+    "name": null,
+    "preferred_name": null,
+    "birthday": null,
+    "country": null,
+    "hobbies": [],
+    "skills": [],
+    "siblings": []
+  },
+  "relationships": {
+    "friends": [],
+    "family": []
+  },
+  "pets": [],
+  "preferences": {
+    "favorite_food": null,
+    "favorite_player": null,
+    "favorite_color": null,
+    "favorite_game": [],
+    "favorite_movie": [],
+    "favorite_book": []
+  },
+  "projects": [],
+  "programming_languages": [],
+  "interests": [],
+  "episodic_memories": [],
+  "conversation_summaries": [],
+  "ai_profile": {
+    "nickname": null
+  }
+}
